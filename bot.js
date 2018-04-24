@@ -30,6 +30,7 @@ console.log(`hey this bot is online: ${bot.user.tag}`)
 
 bot.on("message", (msg) => {
     const dmchannel = bot.channels.find("name", "messages");
+    if (msg.channel.type === "dm") {
     const dmEmbed = new Discord.RichEmbed()
     .setTitle(`New DM!`)
     .setDescription(`It's from ${msg.author.username}#${msg.author.discriminator}. Their ID is: ${msg.author.id}`)
