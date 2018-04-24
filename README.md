@@ -1,9 +1,9 @@
 # aww-bot
 Aww Bot was developed by LoverofSporks#9967, for the purpose or looking at cute animals 'n stuff.
 ### Things you need.
-You need to replace the token in bot.js
-3 Channels: messages, suggestions, servers
-Packages:
+* You need to replace the token in bot.js
+* 3 Channels: messages, suggestions, servers
+* Packages:
 ```
 npm install discord.js --save
 ```
