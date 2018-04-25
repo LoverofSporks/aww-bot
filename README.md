@@ -21,5 +21,7 @@ node bot.js
 ### People
 * LoverofSporks#9967 - *Main Developer* - [Github Profile](https://github.com/LoverofSporks)
 * trAsh#6859 - *Basically helping me when i do dumb stuff*
+### Discord Bot List
+[![DBL](https://discordbots.org/api/widget/419280710805880833.svg)](https://discordbots.org/bot/419280710805880833)
 #### Using the bot
 Im fine with it, however it'd be nice to recieve credit.
