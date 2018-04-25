@@ -4,8 +4,9 @@ module.exports = {
 let changesEmbed = new Discord.RichEmbed()
 .setColor(0x00ff00)
 .setTitle("New Update!")
-.setDescription("Update 1.0.3")
-.addField("More Breeds:", `Lots more breeds have been added to the breed command. To see full list [click me](https://hastebin.com/olasemodey.pas)`)
+.setDescription("Update 1.0.4")
+.addField("New Command: hug", "You can now hug another user!")
+.addField("GitHub:", `The bot now has a GitHub for transparency purposes. [Github](https://github.com/LoverofSporks/aww-bot/)`)
 .setThumbnail("https://cdn.glitch.com/1db372e8-3f7d-4e5d-b11b-4f11354590d6%2Fdownload.png?1524114276746")
 msg.channel.send(changesEmbed)
       .catch(err => msg.channel.send(`Aw heck, there's an error. If it continues please use 'awsuggest' and say the error: \`${err.body}\``));
