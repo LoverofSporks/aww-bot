@@ -28,5 +28,5 @@ node bot.js
 ### People
 * LoverofSporks#9967 - *Main Developer* - [Github Profile](https://github.com/LoverofSporks)
 * trAsh#6859 - *Basically helping me when i do dumb stuff*
-#### Using the bot
+#### Hosting
 Im fine with it, however it'd be nice to recieve credit.
