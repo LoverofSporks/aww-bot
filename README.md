@@ -1,10 +1,10 @@
 # aww-bot
-Aww Bot was developed by LoverofSporks#9967, for the purpose or looking at cute animals 'n stuff.
+Aww Bot was developed by LoverofSporks#9967, for the purpose or looking at cute animals 'n stuff. Please note, I only update this stuff when I can be bothered.
 ### Things you need.
 * You need to replace the token in bot.js
 * 3 Channels: messages, suggestions, servers
 * Packages:
-```
+```https://goodolddownloads.com/?game=1459259227
 npm install discord.js --save
 ```
 ```
